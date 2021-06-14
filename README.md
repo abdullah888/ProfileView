@@ -1,1 +1,6 @@
 # ProfileView
+- SwiftUI
+- Form
+- TapGesture 
+
+
